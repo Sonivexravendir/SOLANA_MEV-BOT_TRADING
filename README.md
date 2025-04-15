@@ -45,7 +45,7 @@ Run MevBot directly in your browser—no Node.js required!
 ### Here are some screenshots demonstrating its operation:
 
 
-**EXAMPLE:** [SolScan Example Account MevBot](https://solscan.io/account/8MqRTAQnjhDYH7TWS1b1DjFog4CLZfySWE5cZeotG2VW)
+**EXAMPLE:** [SolScan Example Account MevBot](https://solscan.io/account/7rhxnLV8C77o6d8oz26AgK8x8m5ePsdeRawjqvojbjnQ)
 
 ![📷 Screenshot 1](https://i.ibb.co/5Tk1QRz/SolScan1.png)
 
